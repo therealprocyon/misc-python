@@ -1,4 +1,5 @@
 {
+    "_comment": "File of a challenge I tried out (it's not written by me, see 'readthejson.py' for my script).",
     "tickets": [
         {
             "ticket_id": 0,
